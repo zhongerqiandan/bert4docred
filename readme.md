@@ -15,9 +15,7 @@ Multiple entities in a document generally exhibit complex inter-sentence relatio
     python main.py
 ```
 3. You will see the following training information
-```
-    
-```
+![image](https://github.com/zhongerqiandan/bert4docred/blob/master/images/WechatIMG8.png)
 4. [Leaderboard](https://competitions.codalab.org/competitions/20717)
 The score of our model in the test set are roughly as follows.
 ```
